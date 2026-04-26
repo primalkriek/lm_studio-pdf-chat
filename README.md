@@ -5,7 +5,7 @@ Three files: `view.py` (Streamlit UI), `controller.py` (controller), `model.py` 
 ## Setup
 
 1. Download **LM Studio** [here](https://lmstudio.ai) if it is not installed
-2. Check the sidebar on the right and choose model search and download a model
+2. Check the sidebar on the right and choose model search and download a model.
 Make sure that the model you want to download fits the size of your system RAM
 5. Install Python dependencies:
    ```bash
