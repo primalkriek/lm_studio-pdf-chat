@@ -1,6 +1,6 @@
 # PDF Chat
 
-Three files: `view.py` (Streamlit UI), `controller.py` (glue), `model.py` (LM Studio).
+Three files: `view.py` (Streamlit UI), `controller.py` (controller), `model.py` (model using LM Studio).
 
 ## Setup
 
