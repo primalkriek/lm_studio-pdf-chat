@@ -26,7 +26,7 @@ Make sure that the model you want to download fits the size of your system RAM
 It means the SDK couldn't talk to LM Studio. Two things to check:
 
 1. Is LM Studio running, and is the local server on? (Developer tab in LM Studio, the toggle has to be green.)
-2. Do you have a model downloaded? Open the model search tab in LM Studio and download one (e.g. `qwen/qwen3-4b-2507`).
+2. Do you have a model downloaded? Open the model search tab in LM Studio and download one (e.g. `qwen/qwen3-4b`).
 3. Check in the server settings that the authentication is off for this example
 
 You can verify from a terminal:
